@@ -9,3 +9,5 @@ Procedure:
 
 Conclusion:
 Sentiment analysis can be used to understand the emotional direction of the tweets but is not enough to accurately represent the context and hence the emotion expressed.
+
+Please see final_paper.pdf for detailed report on the findings and methodology used.
